@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="chick" size="300.000000 268.249023" />
+    <ImageTarget name="snowman" size="300.000000 276.960205" />
+    <ImageTarget name="kite" size="300.000000 258.769226" />
+    <ImageTarget name="door" size="300.000000 250.783539" />
+    <ImageTarget name="cap" size="300.000000 247.725204" />
+    <ImageTarget name="rose" size="300.000000 258.441559" />
+    <ImageTarget name="starfish" size="300.000000 251.715805" />
+    <ImageTarget name="pizza" size="300.000000 244.182892" />
+    <ImageTarget name="clock" size="300.000000 249.851639" />
+  </Tracking>
+</QCARConfig>
