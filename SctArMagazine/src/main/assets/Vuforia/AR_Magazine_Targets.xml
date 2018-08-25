@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Padman" size="1.000000 1.278543" />
+    <ImageTarget name="M4" size="1.000000 1.275320" />
+    <ImageTarget name="M3" size="1.000000 1.280512" />
+    <ImageTarget name="M2" size="1.000000 1.284722" />
+    <ImageTarget name="M1" size="1.000000 1.250489" />
+    <ImageTarget name="Aarthavam" size="1.000000 1.289320" />
+    <ImageTarget name="Union_Report" size="1.000000 1.289320" />
+    <ImageTarget name="madhu" size="1.000000 1.278543" />
+    <ImageTarget name="bcg_onv" size="1.000000 1.279386" />
+    <ImageTarget name="romersDiary" size="1.000000 1.501750" />
+  </Tracking>
+</QCARConfig>

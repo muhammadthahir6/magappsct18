@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="back0" size="0.210000 0.254790" />
+    <ImageTarget name="0071" size="0.210000 0.288474" />
+    <ImageTarget name="0021" size="0.210000 0.292703" />
+    <ImageTarget name="01" size="0.210000 0.277973" />
+    <ImageTarget name="BackCover" size="0.210000 0.275380" />
+    <ImageTarget name="FrontCover" size="0.210000 0.275380" />
+    <ImageTarget name="back" size="0.210000 0.277382" />
+    <ImageTarget name="samarpanam" size="0.210000 0.303597" />
+    <ImageTarget name="0135" size="0.210000 0.288592" />
+    <ImageTarget name="0111" size="0.210000 0.280541" />
+    <ImageTarget name="0132" size="0.210000 0.286770" />
+    <ImageTarget name="0129" size="0.210000 0.278176" />
+    <ImageTarget name="0122" size="0.210000 0.284941" />
+    <ImageTarget name="0108" size="0.210000 0.281400" />
+    <ImageTarget name="0089" size="0.210000 0.282096" />
+    <ImageTarget name="0084" size="0.210000 0.286401" />
+    <ImageTarget name="0080" size="0.210000 0.276615" />
+    <ImageTarget name="0079" size="0.210000 0.274981" />
+    <ImageTarget name="0074" size="0.210000 0.283869" />
+    <ImageTarget name="0072" size="0.210000 0.295909" />
+    <ImageTarget name="0069" size="0.210000 0.296296" />
+    <ImageTarget name="0066" size="0.210000 0.288750" />
+    <ImageTarget name="0055" size="0.210000 0.281109" />
+    <ImageTarget name="0050" size="0.210000 0.285176" />
+    <ImageTarget name="0047" size="0.210000 0.284804" />
+    <ImageTarget name="0046" size="0.210000 0.287459" />
+    <ImageTarget name="0017" size="0.210000 0.297366" />
+    <ImageTarget name="0016" size="0.210000 0.297767" />
+    <ImageTarget name="0039" size="0.210000 0.270158" />
+    <ImageTarget name="0037" size="0.210000 0.257127" />
+    <ImageTarget name="0031" size="0.210000 0.287329" />
+    <ImageTarget name="0030" size="0.210000 0.283642" />
+    <ImageTarget name="0025" size="0.210000 0.270709" />
+    <ImageTarget name="0019" size="0.210000 0.295497" />
+    <ImageTarget name="0010" size="0.210000 0.272959" />
+    <ImageTarget name="0008" size="0.210000 0.264171" />
+  </Tracking>
+</QCARConfig>
