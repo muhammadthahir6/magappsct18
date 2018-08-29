@@ -1,4 +1,4 @@
-package com.HashTech.SctArMagazine;
+package com.sctce.arunitymagazine;
 
 import com.unity3d.player.*;
 import android.app.Activity;
